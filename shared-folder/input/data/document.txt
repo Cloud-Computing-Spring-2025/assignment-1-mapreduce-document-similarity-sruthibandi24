@@ -1,0 +1,3 @@
+doc1    Computers help store and process data  
+doc2    Big data is used in many industries  
+doc3    Analyzing data helps in making better decisions
